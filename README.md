@@ -11,10 +11,10 @@
 
 <a href="https://buymeacoffee.com/gregorychau"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40"></a>
 
-**Essayer** : la plupart des outils sont aussi dans la [version web](https://astraeos-dev.github.io/personnal-site/#/ganymede),
+**Essayer** : la plupart des outils sont aussi dans la [version web](https://astraeos-dev.github.io/Gaia/#/ganymede),
 sans installation. Une idée, un problème ? [Ouvrir une demande](https://github.com/astraeos-dev/Ganymede/issues/new/choose).
 
-**Projet actif** · un des projets d'Astraeos : [site web](https://astraeos-dev.github.io/personnal-site/#/ganymede) ·
+**Projet actif** · un des projets d'Astraeos : [site web](https://astraeos-dev.github.io/Gaia/#/ganymede) ·
 [Céleste](https://github.com/astraeos-dev/Celeste_App) · [Céleste pour Home Assistant](https://github.com/astraeos-dev/Celeste_HA)
 
 ---
@@ -22,7 +22,7 @@ sans installation. Une idée, un problème ? [Ouvrir une demande](https://github
 ## Présentation
 
 Ganymede regroupe dans une seule application les calculs du quotidien des techniciens, étudiants et curieux. La plupart
-des calculateurs existent aussi dans la [version web](https://astraeos-dev.github.io/personnal-site/#/ganymede), utilisable sans
+des calculateurs existent aussi dans la [version web](https://astraeos-dev.github.io/Gaia/#/ganymede), utilisable sans
 installation depuis un navigateur.
 
 ## Fonctionnalités
