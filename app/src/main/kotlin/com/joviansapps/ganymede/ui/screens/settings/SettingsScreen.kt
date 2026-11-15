@@ -171,7 +171,7 @@ private fun AboutSettings() {
         ClickableInfoRow(
             label = stringResource(R.string.about_github),
             onClick = {
-                val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/Greg50100/Ganymede"))
+                val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/astraeos-dev/Ganymede"))
                 context.startActivity(intent)
             }
         )

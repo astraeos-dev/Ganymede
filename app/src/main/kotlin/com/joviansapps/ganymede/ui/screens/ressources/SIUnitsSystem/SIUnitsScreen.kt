@@ -9,7 +9,7 @@
  * Composable screen that lists and explains SI units used throughout the application.
  * Provides reference information for unit symbols, names, and standard usage.
  *
- * Repository: https://github.com/Greg50100/Ganymede
+ * Repository: https://github.com/astraeos-dev/Ganymede
  */
 
 package com.joviansapps.ganymede.ui.screens.ressources.SIUnitsSystem
