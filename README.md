@@ -1,21 +1,28 @@
+<p align="center"><img src="assets/brand/icon.svg" width="128" height="128" alt="Ganymede"></p>
+
 # Ganymede — calculatrice scientifique pour Android
 
 > Application Android de calcul scientifique : calculatrice, convertisseur, traceur de fonctions et plus de cent outils
 > (électronique, maths, physique, chimie, santé) et fiches de référence.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7f52ff?logo=kotlin)
+[![Licence MIT](https://img.shields.io/github/license/astraeos-dev/Ganymede?label=licence)](LICENSE)
 ![Android](https://img.shields.io/badge/Android-6.0%2B-3ddc84?logo=android)
-![Licence](https://img.shields.io/badge/Licence-MIT-green)
+![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7f52ff?logo=kotlin)
 
-**Projet actif** · fait partie de la famille Ganymede : [version web](https://greg50100.github.io/personnal-site/) ·
-[Céleste (bureau)](https://github.com/Greg50100/Celeste_App) · [Céleste pour Home Assistant](https://github.com/Greg50100/Celeste_HA)
+<a href="https://buymeacoffee.com/gregorychau"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40"></a>
+
+**Essayer** : la plupart des outils sont aussi dans la [version web](https://astraeos-dev.github.io/personnal-site/#/ganymede),
+sans installation. Une idée, un problème ? [Ouvrir une demande](https://github.com/astraeos-dev/Ganymede/issues/new/choose).
+
+**Projet actif** · un des projets d'Astraeos : [site web](https://astraeos-dev.github.io/personnal-site/#/ganymede) ·
+[Céleste](https://github.com/astraeos-dev/Celeste_App) · [Céleste pour Home Assistant](https://github.com/astraeos-dev/Celeste_HA)
 
 ---
 
 ## Présentation
 
 Ganymede regroupe dans une seule application les calculs du quotidien des techniciens, étudiants et curieux. La plupart
-des calculateurs existent aussi dans la [version web](https://greg50100.github.io/personnal-site/), utilisable sans
+des calculateurs existent aussi dans la [version web](https://astraeos-dev.github.io/personnal-site/#/ganymede), utilisable sans
 installation depuis un navigateur.
 
 ## Fonctionnalités
@@ -51,7 +58,7 @@ installation depuis un navigateur.
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/Greg50100/Ganymede.git
+   git clone https://github.com/astraeos-dev/Ganymede.git
    ```
 2. Ouvrir le dossier dans Android Studio (dernière version stable) et laisser Gradle se synchroniser.
 3. Lancer l'application sur un émulateur ou un appareil.

@@ -12,7 +12,7 @@
  * The UI is built with Jetpack Compose and follows the MVVM pattern.
  *
  * For more details, see the project repository:
- * https://github.com/Greg50100/Ganymede
+ * https://github.com/astraeos-dev/Ganymede
  */
 package com.joviansapps.ganymede.ui.screens.utilities.electronics
 

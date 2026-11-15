@@ -12,7 +12,7 @@
  * This file header follows the style used in `TransformerCalculatorScreen.kt` to keep
  * file-level documentation consistent across the project.
  *
- * Repository: https://github.com/Greg50100/Ganymede
+ * Repository: https://github.com/astraeos-dev/Ganymede
  */
 
 package com.joviansapps.ganymede.ui.screens.ressources.SIUnitsSystem

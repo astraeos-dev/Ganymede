@@ -10,7 +10,7 @@
  * The component presents IEC/ANSI symbols, boolean expressions, and truth tables, and includes a
  * simple interactive simulator to toggle inputs and observe the resulting outputs.
  *
- * Repository: https://github.com/Greg50100/Ganymede
+ * Repository: https://github.com/astraeos-dev/Ganymede
  */
 
 package com.joviansapps.ganymede.ui.screens.ressources.computing
